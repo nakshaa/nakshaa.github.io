@@ -9,7 +9,7 @@ const tileLayer = L.tileLayer(tileURL, {attribution});
 tileLayer.addTo(mymap);
 
 const marker = L.marker([26.79643970762935, 82.1943725566498]);
-marker.bindPopup("<img src="./images/raam-mandir.jpg>
+marker.bindPopup("<img src="./images/raam-mandir.jpg">
                  <h2>Shree Raam Janmabhoomi Mandir</h2>");
 
 marker.addTo(mymap)
