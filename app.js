@@ -1,4 +1,4 @@
-const mymap = L.map('map').setView([26.796746161849036, 82.20019766008075], 15);
+const mymap = L.map('map').setView([26.796976001970535, 82.19480171008078], 15);
 
 const tileURL = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 
