@@ -1,5 +1,5 @@
 # Nakshaa
-A map service made using leaflet.js library and openstreetmap. Nakshaa is inspired by Google Maps. UI/UX has been designed greatly for the user convenience. The most beautiful thing about Nakshaa is it is very light weight as it uses leaflet.js library.
+A map service made using leaflet.js library and openstreetmap. Nakshaa is inspired by Google Maps. UI/UX has been designed greatly for the user convenience. The most beautiful thing about Nakshaa is it is very light weight as it uses leaflet.js library for rendering purpose. Data used in nakshaa are fetched from OpenStreetMap which is open source community providing geo spatial data at free of cost.
 
 ![Demo](https://github.com/nakshaa/nakshaa.github.io/blob/main/images/nakshaa.png)
 
