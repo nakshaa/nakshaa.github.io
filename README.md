@@ -8,6 +8,7 @@ https://nakshaa.github.io
 - [Leaflet Javascript Library](#leaflet-javascript-library)
 - [Open Street Map](#open-street-map)
 - [Tools Used](#tools-used)
+- [Installation](#installation)
 
 ## Leaflet Javascript Library
 Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Weighing just about 39 KB of JS, it has all the mapping features most developers ever need.
@@ -21,4 +22,11 @@ Make sure to give attribution to avoid any copyright issue.
 
 ## Tools Used
 * Visual Studio Code
+
+## Installation
+Clone the repository 
+
+```git
+git clone 
+```
 
