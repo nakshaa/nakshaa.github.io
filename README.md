@@ -21,5 +21,4 @@ Make sure to give attribution to avoid any copyright issue.
 
 ## Tools Used
 * Visual Studio Code
-* 
 
