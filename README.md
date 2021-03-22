@@ -22,11 +22,17 @@ Make sure to give attribution to avoid any copyright issue.
 
 ## Tools Used
 * Visual Studio Code
+* Browser
 
 ## Installation
 Clone the repository 
 
 ```git
-git clone 
+git clone https://github.com/nakshaa/nakshaa.github.io.git
 ```
-
+## Usage
+change the directory
+```bash
+cd nakshaa.github.io
+```
+open index.html file in browser.
