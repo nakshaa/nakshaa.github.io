@@ -5,7 +5,7 @@ A map service made using leaflet.js library and openstreetmap. Nakshaa is inspir
 https://nakshaa.github.io
 
 ## Table of Content
-- [Leaflet Javascript Library](#-leaflet-javascript-library)
+- [Leaflet Javascript Library](#leaflet-javascript-library)
 - [Open Street Map](#-open-street-map)
 - [Tools Used](#-tools-used)
 
