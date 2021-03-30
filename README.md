@@ -33,7 +33,7 @@ git clone https://github.com/nakshaa/nakshaa.github.io.git
 ```
 ## Usage
 change the directory
-```bash
+```shell
 cd nakshaa.github.io
 ```
 open index.html file in browser.
